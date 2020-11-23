@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exo 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 1/jsp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,16 @@
       <option name="presentableId" value="Default" />
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
-      <workItem from="1606125343933" duration="332000" />
+      <workItem from="1606125343933" duration="953000" />
     </task>
+    <task id="LOCAL-00001" summary="exo 1 fini">
+      <created>1606125708895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606125708895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +75,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exo 1 fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo 1 fini" />
   </component>
 </project>
