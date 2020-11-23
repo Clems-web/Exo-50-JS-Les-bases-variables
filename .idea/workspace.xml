@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exo 3/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo 2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exo 2/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exo 3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
-      <workItem from="1606125343933" duration="1559000" />
+      <workItem from="1606125343933" duration="1969000" />
     </task>
     <task id="LOCAL-00001" summary="exo 1 fini">
       <created>1606125708895</created>
@@ -65,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606126558849</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exo 1 fini">
+      <created>1606127001999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606127001999</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
